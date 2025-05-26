@@ -1,3 +1,3 @@
 <img src="banner.gif" style="width:100%;opacity:0.3;"></img>
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 

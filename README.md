@@ -1,5 +1,3 @@
-# ***Hey!***
-
 ![Header](./github-header-image.png)
 
 
@@ -11,5 +9,3 @@
 
 **💬 ping me about robotics, PLCs, ROS, automation, reverse engineering, AI systems**
 
-
-<img src="banner.gif" style="width:100%;opacity:0.3;"></img>

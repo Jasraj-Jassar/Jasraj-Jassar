@@ -36,7 +36,6 @@ From software pipelines to hardware integration, I focus on systems that are rel
 - **[maze-maker-solver](https://github.com/Jasraj-Jassar/maze-maker-solver)** - Python maze generation and AI pathfinding
 - **[ChronoSage](https://github.com/Jasraj-Jassar/ChronoSage)** - AI calendar event creator
 - **[ghidra-auto-setup-tool](https://github.com/Jasraj-Jassar/ghidra-auto-setup-tool)** - Automates binary import and project setup in Ghidra
-- **[Art_WP_Text_Bot](https://github.com/Jasraj-Jassar/Art_WP_Text_Bot)** - WhatsApp automation bot
 
 ## Stack
 <p>
